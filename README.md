@@ -3,7 +3,7 @@ Hello There []~(￣▽￣)~*
 </h1>
 
 <div align="center">
-    <img align="center"  src="https://media2.giphy.com/media/l2JJDdD7cv4xdGGis/giphy.gif?cid=ecf05e47os18kkvuqsxqtlqksq6ub86s43mlvoqhytc77uea&rid=giphy.gif" width="1000px" alt="welcome-gif">
+    <img align="center"  src="https://media.tenor.com/7XGED-yj1TwAAAAC/chonker-cat.gif" width="1000px" alt="welcome-gif">
 </div>
 
 ### 💬 About Me
