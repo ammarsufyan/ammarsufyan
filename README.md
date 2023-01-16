@@ -10,8 +10,6 @@ Hello There []~(￣▽￣)~*
 
 - Hi 👋🏻, my name is Ammar Sufyan
 - I'm currently studying as an Informatics Engineering student at UIN Jakarta
-
-<br />
 <br />
 
 ### 📡 Find Me On
