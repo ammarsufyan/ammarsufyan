@@ -3,7 +3,7 @@ Hello There []~(￣▽￣)~*
 </h1>
 
 <div align="center">
-    <img align="center" src="https://user-images.githubusercontent.com/63483228/212732347-f87f8204-9c53-449a-bcde-d76064e016bc.gif" width="1000px" alt="welcome-gif">
+    <img align="center" src="https://user-images.githubusercontent.com/63483228/212732347-f87f8204-9c53-449a-bcde-d76064e016bc.gif" width="300px" alt="welcome-gif">
 </div>
 
 ### 💬 About Me
