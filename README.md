@@ -15,15 +15,16 @@ I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](htt
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
-## Database
+## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/sql%20server-critical.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+![SQLServer](https://img.shields.io/badge/sql%20server-critical.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 ## Tools and Technologies
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Powershell](https://img.shields.io/badge/Powershell-black?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
