@@ -1,31 +1,60 @@
-<h1 align="center">
-Hello There []~(￣▽￣)~*
-</h1>
+# Hi there, I'm [Ammar Sufyan](https://neouranos.github.io) 👋
 
-<div align="center">
-    <img align="center" src="https://user-images.githubusercontent.com/63483228/212732347-f87f8204-9c53-449a-bcde-d76064e016bc.gif" width="300px" alt="welcome-gif">
-</div>
-
-### 💬 About Me
-
-- Hi 👋🏻, my name is Ammar Sufyan
-- I'm currently studying as an Informatics Engineering student at UIN Jakarta
-
-### 📡 Find Me On
-
-<a href="https://www.linkedin.com/in/ammarsufyan/"><code><img alt="Ammar Sufyan | LinkedIn" 
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></code></a>
-<a href="https://steamcommunity.com/id/ammarsufyan/"><code><img alt="Neouranos | Steam" 
-    src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" /></code></a>
-
-### 🔧 Tools / Language
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
 
 <br />
+
+# Skills
+
+## Languages:
+
+![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/Kotlin-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+
+## Database
+
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sql%20server-critical.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+
+## Tools and Technologies
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+## IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Android%20Studio-green.svg?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+
+<br />
+
+# Connect with me
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white&color=black" />](https://steamcommunity.com/id/ammarsufyan/) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/ammarsfyn/) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ammarsufyan/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ammarsfyn/)
+
+</p>
+
+<br />
+
+# <code>Github Stats</code>
+[![wakatime](https://wakatime.com/badge/user/2eee44f5-c422-430b-9d69-1cd790f56c8a.svg)](https://wakatime.com/@2eee44f5-c422-430b-9d69-1cd790f56c8a)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neouranos&layout=compact&theme=radical)
+
+![Neouranos GitHub stats](https://github-readme-stats.vercel.app/api?username=neouranos&show_icons=true&theme=radical)
+
+![Neouranos Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neouranos&theme=radical)
