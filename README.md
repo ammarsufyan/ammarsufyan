@@ -7,10 +7,10 @@ I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](htt
 ## Languages
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![CSharp](https://img.shields.io/badge/C%20Sharp-green.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/Kotlin-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
