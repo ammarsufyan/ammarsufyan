@@ -2,8 +2,6 @@
 
 I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
 
-<br />
-
 # Skills
 
 ## Languages:
@@ -35,8 +33,6 @@ I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](htt
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Android%20Studio-green.svg?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 
-<br />
-
 # Connect with me
 
 <p align = "center">
@@ -48,9 +44,7 @@ I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](htt
 
 </p>
 
-<br />
-
-# <code>Github Stats</code>
+# Github Stats
 [![wakatime](https://wakatime.com/badge/user/2eee44f5-c422-430b-9d69-1cd790f56c8a.svg)](https://wakatime.com/@2eee44f5-c422-430b-9d69-1cd790f56c8a)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neouranos&layout=compact&theme=radical)
