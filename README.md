@@ -25,7 +25,7 @@ I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](htt
 ## Tools and Technologies
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Powershell](https://img.shields.io/badge/Powershell-black?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
+![Powershell](https://img.shields.io/badge/Powershell-grey?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
