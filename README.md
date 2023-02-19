@@ -74,7 +74,7 @@ I'am an Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatulla
 </details>
 
 <details>
-    <summary>⚡ Recent GitHub Activity</summary>
+    <summary>⚡ GitHub Recent Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
