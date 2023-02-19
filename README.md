@@ -2,6 +2,11 @@
 
 I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=neouranos&style=for-the-badge&label=profile+views"> &nbsp;
+  <img src="https://img.shields.io/github/last-commit/neouranos/neouranos?style=for-the-badge">
+</div>
+
 # Skills
 
 ## Languages
