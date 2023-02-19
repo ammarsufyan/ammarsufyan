@@ -1,6 +1,6 @@
 # Hi there, I'm [Ammar Sufyan](https://neouranos.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
 
-I'am an Undergraduate Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
+I'am an Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=neouranos&style=for-the-badge&label=profile+views"> &nbsp;
