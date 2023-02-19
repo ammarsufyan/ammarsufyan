@@ -73,7 +73,6 @@ I'am an Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatulla
   <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=neouranos&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
 </details>
 
-
 <details>
     <summary>⚡ Recent GitHub Activity</summary>
     
