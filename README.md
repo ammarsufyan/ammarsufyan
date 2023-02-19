@@ -1,4 +1,4 @@
-# Hi there, I'm [Ammar Sufyan](https://neouranos.github.io) 👋
+# Hi there, I'm [Ammar Sufyan](https://neouranos.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
 
 I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
 
@@ -7,7 +7,7 @@ I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](htt
   <img src="https://img.shields.io/github/last-commit/neouranos/neouranos?style=for-the-badge">
 </div>
 
-# Skills
+# 📝 Skills
 
 ## Languages
 
@@ -40,7 +40,7 @@ I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](htt
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-green.svg?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 
-# Connect with me
+# 🧷 Connect with me 
 
 <p align = "center">
 
@@ -51,11 +51,24 @@ I'am an Informatics Engineering student at [UIN Syarif Hidayatullah Jakarta](htt
 
 </p>
 
-# Github Stats
-[![wakatime](https://wakatime.com/badge/user/2eee44f5-c422-430b-9d69-1cd790f56c8a.svg)](https://wakatime.com/@2eee44f5-c422-430b-9d69-1cd790f56c8a)
+# ⚙️ Github Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neouranos&layout=compact&theme=radical)
+<details>
+  <summary>🎛️ GitHub Profile Stats</summary>
+  <br>
+  
+  [![wakatime](https://wakatime.com/badge/user/2eee44f5-c422-430b-9d69-1cd790f56c8a.svg)](https://wakatime.com/@2eee44f5-c422-430b-9d69-1cd790f56c8a)
 
-![Neouranos GitHub stats](https://github-readme-stats.vercel.app/api?username=neouranos&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neouranos&layout=compact&theme=radical)
 
-![Neouranos Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neouranos&theme=radical)
+  ![Neouranos GitHub stats](https://github-readme-stats.vercel.app/api?username=neouranos&show_icons=true&theme=radical)
+
+  ![Neouranos Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neouranos&theme=radical)
+  
+</details>
+
+<details>
+  <summary>🏆 GitHub Trophy</summary>
+  <br/>
+  <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=neouranos&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
+</details>
