@@ -63,7 +63,7 @@ I'am an Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatulla
 
   ![Neouranos GitHub stats](https://github-readme-stats.vercel.app/api?username=neouranos&show_icons=true&theme=radical)
 
-  ![Neouranos Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neouranos&theme=radical)
+  ![Neouranos Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neouranos&theme=radical&langs_count=10)
   
 </details>
 
