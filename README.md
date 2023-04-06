@@ -77,20 +77,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [neouranos/the-algorithm](https://github.com/neouranos/the-algorithm) from [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
-2. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
-3. ⭐ Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)<br>
-4. ⭐ Starred [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows)<br>
-5. ⭐ Starred [nipkownix/re4_tweaks](https://github.com/nipkownix/re4_tweaks)<br>
-6. ⬆️ Pushed 4 commit(s) to [neouranos/Forum-Warga](https://github.com/neouranos/Forum-Warga)<br>
-7. ⭐ Starred [neouranos/aplikasi-jaringan](https://github.com/neouranos/aplikasi-jaringan)<br>
-8. ⬆️ Pushed 1 commit(s) to [neouranos/aplikasi-jaringan](https://github.com/neouranos/aplikasi-jaringan)<br>
-9. 📔 Created new repository [neouranos/aplikasi-jaringan](https://github.com/neouranos/aplikasi-jaringan)<br>
-10. ⭐ Starred [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)<br>
+1. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)<br>
+2. 🔱 Forked [neouranos/the-algorithm](https://github.com/neouranos/the-algorithm) from [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
+3. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
+4. ⭐ Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)<br>
+5. ⭐ Starred [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows)<br>
+6. ⭐ Starred [nipkownix/re4_tweaks](https://github.com/nipkownix/re4_tweaks)<br>
+7. ⬆️ Pushed 4 commit(s) to [neouranos/Forum-Warga](https://github.com/neouranos/Forum-Warga)<br>
+8. ⭐ Starred [neouranos/aplikasi-jaringan](https://github.com/neouranos/aplikasi-jaringan)<br>
+9. ⬆️ Pushed 1 commit(s) to [neouranos/aplikasi-jaringan](https://github.com/neouranos/aplikasi-jaringan)<br>
+10. 📔 Created new repository [neouranos/aplikasi-jaringan](https://github.com/neouranos/aplikasi-jaringan)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 6th, 2023, 12:38:09 AM
+Last Updated: Thursday, April 6th, 2023, 12:13:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
