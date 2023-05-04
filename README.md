@@ -77,20 +77,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)<br>
-2. 🔱 Forked [neouranos/Auto-Annotate](https://github.com/neouranos/Auto-Annotate) from [mdhmz1/Auto-Annotate](https://github.com/mdhmz1/Auto-Annotate)<br>
-3. ⭐ Starred [mdhmz1/Auto-Annotate](https://github.com/mdhmz1/Auto-Annotate)<br>
-4. ⭐ Starred [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)<br>
-5. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)<br>
-6. 🔱 Forked [neouranos/the-algorithm](https://github.com/neouranos/the-algorithm) from [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
-7. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
-8. ⭐ Starred [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)<br>
-9. ⭐ Starred [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows)<br>
-10. ⭐ Starred [nipkownix/re4_tweaks](https://github.com/nipkownix/re4_tweaks)<br>
+1. ⭐ Starred [suno-ai/bark](https://github.com/suno-ai/bark)<br>
+2. ⭐ Starred [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)<br>
+3. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+4. ⭐ Starred [xtekky/gpt4free](https://github.com/xtekky/gpt4free)<br>
+5. ⭐ Starred [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)<br>
+6. ⭐ Starred [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)<br>
+7. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)<br>
+8. ⭐ Starred [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)<br>
+9. ⭐ Starred [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)<br>
+10. ⭐ Starred [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 4th, 2023, 12:39:35 AM
+Last Updated: Thursday, May 4th, 2023, 12:13:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
