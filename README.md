@@ -77,20 +77,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)<br>
-2. ⭐ Starred [aleju/imgaug](https://github.com/aleju/imgaug)<br>
-3. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-4. 📔 Created new repository [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-5. ⭐ Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)<br>
-6. ⭐ Starred [hai-h-nguyen/Yolo2Pascal-annotation-conversion](https://github.com/hai-h-nguyen/Yolo2Pascal-annotation-conversion)<br>
-7. ⭐ Starred [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg)<br>
-8. ⭐ Starred [suno-ai/bark](https://github.com/suno-ai/bark)<br>
-9. ⭐ Starred [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything)<br>
-10. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+1. ⭐ Starred [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd)<br>
+2. ⭐ Starred [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker)<br>
+3. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)<br>
+4. ⭐ Starred [aleju/imgaug](https://github.com/aleju/imgaug)<br>
+5. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+6. 📔 Created new repository [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+7. ⭐ Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)<br>
+8. ⭐ Starred [hai-h-nguyen/Yolo2Pascal-annotation-conversion](https://github.com/hai-h-nguyen/Yolo2Pascal-annotation-conversion)<br>
+9. ⭐ Starred [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg)<br>
+10. ⭐ Starred [suno-ai/bark](https://github.com/suno-ai/bark)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 21st, 2023, 12:43:16 AM
+Last Updated: Sunday, May 21st, 2023, 12:12:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
