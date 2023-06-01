@@ -90,7 +90,7 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 31st, 2023, 12:14:52 PM
+Last Updated: Thursday, June 1st, 2023, 12:56:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
