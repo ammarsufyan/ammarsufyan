@@ -81,16 +81,16 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
 2. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
 3. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
 4. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-5. ⬆️ Pushed 4 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-6. ⭐ Starred [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)<br>
-7. ⬆️ Pushed 2 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-8. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-9. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-10. ⭐ Starred [pittcsc/Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships)<br>
+5. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
+6. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
+7. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
+8. ⬆️ Pushed 4 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
+9. ⭐ Starred [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)<br>
+10. ⬆️ Pushed 2 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 9th, 2023, 12:49:10 AM
+Last Updated: Friday, June 9th, 2023, 12:13:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
