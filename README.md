@@ -77,20 +77,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward)<br>
-2. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-3. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-4. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-5. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-6. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-7. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-8. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-9. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-10. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
+1. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+2. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+3. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+4. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+5. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+6. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+7. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+8. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
+9. ⬆️ Pushed 33 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
+10. 🎉 Merged PR [#2](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/2) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 15th, 2023, 12:44:55 AM
+Last Updated: Thursday, June 15th, 2023, 12:14:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
