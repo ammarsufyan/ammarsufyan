@@ -11,12 +11,9 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
 
 ## Languages
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
-![CSharp](https://img.shields.io/badge/C%20Sharp-green.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/php-767cae?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
@@ -31,7 +28,7 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Powershell](https://img.shields.io/badge/Powershell-grey?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;
+![MicrosoftEdge](https://img.shields.io/badge/Microsoft%20Edge-informational?style=for-the-badge&logo=MicrosoftEdge&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ## IDEs
