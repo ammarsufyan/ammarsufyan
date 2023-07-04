@@ -74,20 +74,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE)<br>
-2. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-3. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-4. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-5. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-6. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-7. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-8. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-9. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
-10. ⬆️ Pushed 33 commit(s) to [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
+1. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
+2. ⬆️ Pushed 1 commit(s) to [neouranos/neo-dotfiles](https://github.com/neouranos/neo-dotfiles)<br>
+3. ⭐ Starred [bitwarden/server](https://github.com/bitwarden/server)<br>
+4. ⭐ Starred [bitwarden/clients](https://github.com/bitwarden/clients)<br>
+5. ⭐ Starred [badges/shields](https://github.com/badges/shields)<br>
+6. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)<br>
+7. ⭐ Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)<br>
+8. 📔 Created new repository [neouranos/coba-trpc](https://github.com/neouranos/coba-trpc)<br>
+9. ⭐ Starred [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE)<br>
+10. ⬆️ Pushed 1 commit(s) to [Patuli-Pahlawan-Tuli/.github](https://github.com/Patuli-Pahlawan-Tuli/.github)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 4th, 2023, 12:53:23 AM
+Last Updated: Tuesday, July 4th, 2023, 12:16:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
