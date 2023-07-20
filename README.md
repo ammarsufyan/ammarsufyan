@@ -72,20 +72,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
-2. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
-3. 📔 Created new repository [neouranos/portfolio](https://github.com/neouranos/portfolio)<br>
+1. ⭐ Starred [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
+2. ⭐ Starred [tryolabs/norfair](https://github.com/tryolabs/norfair)<br>
+3. ⭐ Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
 4. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
-5. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-6. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-7. ⬆️ Pushed 1 commit(s) to [neouranos/neo-dotfiles](https://github.com/neouranos/neo-dotfiles)<br>
-8. ⭐ Starred [bitwarden/server](https://github.com/bitwarden/server)<br>
-9. ⭐ Starred [bitwarden/clients](https://github.com/bitwarden/clients)<br>
-10. ⭐ Starred [badges/shields](https://github.com/badges/shields)<br>
+5. 📔 Created new repository [neouranos/portfolio](https://github.com/neouranos/portfolio)<br>
+6. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
+7. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
+8. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
+9. ⬆️ Pushed 1 commit(s) to [neouranos/neo-dotfiles](https://github.com/neouranos/neo-dotfiles)<br>
+10. ⭐ Starred [bitwarden/server](https://github.com/bitwarden/server)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 19th, 2023, 12:14:29 PM
+Last Updated: Thursday, July 20th, 2023, 12:44:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
