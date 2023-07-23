@@ -72,20 +72,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
-2. ⭐ Starred [tryolabs/norfair](https://github.com/tryolabs/norfair)<br>
-3. ⭐ Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
-4. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
-5. 📔 Created new repository [neouranos/portfolio](https://github.com/neouranos/portfolio)<br>
+1. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)<br>
+2. ⭐ Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)<br>
+3. ⭐ Starred [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
+4. ⭐ Starred [tryolabs/norfair](https://github.com/tryolabs/norfair)<br>
+5. ⭐ Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
 6. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
-7. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-8. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-9. ⬆️ Pushed 1 commit(s) to [neouranos/neo-dotfiles](https://github.com/neouranos/neo-dotfiles)<br>
-10. ⭐ Starred [bitwarden/server](https://github.com/bitwarden/server)<br>
+7. 📔 Created new repository [neouranos/portfolio](https://github.com/neouranos/portfolio)<br>
+8. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
+9. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
+10. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 23rd, 2023, 12:47:33 AM
+Last Updated: Sunday, July 23rd, 2023, 12:13:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
