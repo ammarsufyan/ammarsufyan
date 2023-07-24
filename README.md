@@ -72,20 +72,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)<br>
-2. ⭐ Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)<br>
-3. ⭐ Starred [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
-4. ⭐ Starred [tryolabs/norfair](https://github.com/tryolabs/norfair)<br>
-5. ⭐ Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
-6. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
-7. 📔 Created new repository [neouranos/portfolio](https://github.com/neouranos/portfolio)<br>
-8. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
-9. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
+1. 🔱 Forked [neouranos/Patuli-ML](https://github.com/neouranos/Patuli-ML) from [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
+2. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)<br>
+3. ⭐ Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)<br>
+4. ⭐ Starred [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
+5. ⭐ Starred [tryolabs/norfair](https://github.com/tryolabs/norfair)<br>
+6. ⭐ Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
+7. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
+8. 📔 Created new repository [neouranos/portfolio](https://github.com/neouranos/portfolio)<br>
+9. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
 10. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 23rd, 2023, 12:13:06 PM
+Last Updated: Monday, July 24th, 2023, 12:44:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
