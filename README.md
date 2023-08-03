@@ -72,20 +72,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [neouranos/sun-earth-moon](https://github.com/neouranos/sun-earth-moon)<br>
-2. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
-3. ⬆️ Pushed 1 commit(s) to [neouranos/earth-moon-sun](https://github.com/neouranos/earth-moon-sun)<br>
-4. 📔 Created new repository [neouranos/earh-moon-sun](https://github.com/neouranos/earh-moon-sun)<br>
-5. ⬆️ Pushed 1 commit(s) to [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
-6. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
-7. 🔱 Forked [neouranos/Patuli-ML](https://github.com/neouranos/Patuli-ML) from [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
-8. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)<br>
-9. ⭐ Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)<br>
-10. ⭐ Starred [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
+1. ⭐ Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)<br>
+2. ⬆️ Pushed 1 commit(s) to [neouranos/sun-earth-moon](https://github.com/neouranos/sun-earth-moon)<br>
+3. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
+4. ⬆️ Pushed 1 commit(s) to [neouranos/earth-moon-sun](https://github.com/neouranos/earth-moon-sun)<br>
+5. 📔 Created new repository [neouranos/earh-moon-sun](https://github.com/neouranos/earh-moon-sun)<br>
+6. ⬆️ Pushed 1 commit(s) to [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
+7. 📔 Created new repository [neouranos/portfolio-blog](https://github.com/neouranos/portfolio-blog)<br>
+8. 🔱 Forked [neouranos/Patuli-ML](https://github.com/neouranos/Patuli-ML) from [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)<br>
+9. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)<br>
+10. ⭐ Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 3rd, 2023, 12:42:49 AM
+Last Updated: Thursday, August 3rd, 2023, 12:14:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
