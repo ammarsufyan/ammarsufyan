@@ -36,7 +36,7 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ammarsufyan/)
-[<img src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white&color=black" />](https://steamcommunity.com/id/ammarsufyan/)
+[<img src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white&color=black" />](https://steamcommunity.com/id/neouranos/)
 
 </p>
 
