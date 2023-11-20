@@ -66,20 +66,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-2. ⭐ Starred [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net)<br>
-3. ⭐ Starred [chocolatey/choco](https://github.com/chocolatey/choco)<br>
-4. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
-5. ⭐ Starred [MALSync/MALSync](https://github.com/MALSync/MALSync)<br>
-6. ⭐ Starred [the-via/releases](https://github.com/the-via/releases)<br>
-7. ⭐ Starred [ItsLogic/Xbox-Achievement-Unlocker](https://github.com/ItsLogic/Xbox-Achievement-Unlocker)<br>
-8. ⭐ Starred [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)<br>
-9. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-10. ⭐ Starred [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)<br>
+1. ⭐ Starred [IndoNLP/indonlu](https://github.com/IndoNLP/indonlu)<br>
+2. ⭐ Starred [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)<br>
+3. ⭐ Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)<br>
+4. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)<br>
+5. ⭐ Starred [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner)<br>
+6. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+7. ⭐ Starred [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net)<br>
+8. ⭐ Starred [chocolatey/choco](https://github.com/chocolatey/choco)<br>
+9. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
+10. ⭐ Starred [MALSync/MALSync](https://github.com/MALSync/MALSync)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 19th, 2023, 12:13:18 PM
+Last Updated: Monday, November 20th, 2023, 12:38:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
