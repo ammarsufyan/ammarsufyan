@@ -66,20 +66,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8_DeepSORT](https://github.com/neouranos/YOLOv8_DeepSORT)<br>
-2. 🔱 Forked [neouranos/YOLOv8-DeepSORT-Object-Tracking](https://github.com/neouranos/YOLOv8-DeepSORT-Object-Tracking) from [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)<br>
-3. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8_DeepSORT](https://github.com/neouranos/YOLOv8_DeepSORT)<br>
-4. 🔱 Forked [neouranos/YOLOv8_DeepSORT](https://github.com/neouranos/YOLOv8_DeepSORT) from [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
-5. 📔 Created new repository [neouranos/YOLOv8_DeepSORT](https://github.com/neouranos/YOLOv8_DeepSORT)<br>
-6. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8-DeepSORT-Object-Tracking](https://github.com/neouranos/YOLOv8-DeepSORT-Object-Tracking)<br>
-7. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8-DeepSORT-Object-Tracking](https://github.com/neouranos/YOLOv8-DeepSORT-Object-Tracking)<br>
-8. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8-DeepSORT-Object-Tracking](https://github.com/neouranos/YOLOv8-DeepSORT-Object-Tracking)<br>
+1. ⭐ Starred [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
+2. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
+3. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8-DeepSORT-Object-Tracking](https://github.com/neouranos/YOLOv8-DeepSORT-Object-Tracking)<br>
+4. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8_DeepSORT](https://github.com/neouranos/YOLOv8_DeepSORT)<br>
+5. 🔱 Forked [neouranos/YOLOv8-DeepSORT-Object-Tracking](https://github.com/neouranos/YOLOv8-DeepSORT-Object-Tracking) from [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking)<br>
+6. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8_DeepSORT](https://github.com/neouranos/YOLOv8_DeepSORT)<br>
+7. 🔱 Forked [neouranos/YOLOv8_DeepSORT](https://github.com/neouranos/YOLOv8_DeepSORT) from [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)<br>
+8. 📔 Created new repository [neouranos/YOLOv8_DeepSORT](https://github.com/neouranos/YOLOv8_DeepSORT)<br>
 9. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8-DeepSORT-Object-Tracking](https://github.com/neouranos/YOLOv8-DeepSORT-Object-Tracking)<br>
 10. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8-DeepSORT-Object-Tracking](https://github.com/neouranos/YOLOv8-DeepSORT-Object-Tracking)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 1st, 2023, 12:14:38 PM
+Last Updated: Saturday, December 2nd, 2023, 12:37:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
