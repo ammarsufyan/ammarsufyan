@@ -66,20 +66,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks)<br>
-2. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8_ByteTrack_Supervision](https://github.com/neouranos/YOLOv8_ByteTrack_Supervision)<br>
-3. ⭐ Starred [roboflow/notebooks](https://github.com/roboflow/notebooks)<br>
-4. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)<br>
-5. ⭐ Starred [rathaROG/lapx](https://github.com/rathaROG/lapx)<br>
-6. ❗️ Opened issue [#10](https://github.com/kadirnar/bytetrack-pip/issues/10) in [kadirnar/bytetrack-pip](https://github.com/kadirnar/bytetrack-pip)<br>
-7. ❗️ Opened issue [#57](https://github.com/gatagat/lap/issues/57) in [gatagat/lap](https://github.com/gatagat/lap)<br>
-8. 📔 Created new repository [neouranos/YOLOv8_ByteTrack_Supervision](https://github.com/neouranos/YOLOv8_ByteTrack_Supervision)<br>
-9. ⭐ Starred [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
-10. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
+1. ⭐ Starred [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO)<br>
+2. ⭐ Starred [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks)<br>
+3. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8_ByteTrack_Supervision](https://github.com/neouranos/YOLOv8_ByteTrack_Supervision)<br>
+4. ⭐ Starred [roboflow/notebooks](https://github.com/roboflow/notebooks)<br>
+5. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)<br>
+6. ⭐ Starred [rathaROG/lapx](https://github.com/rathaROG/lapx)<br>
+7. ❗️ Opened issue [#10](https://github.com/kadirnar/bytetrack-pip/issues/10) in [kadirnar/bytetrack-pip](https://github.com/kadirnar/bytetrack-pip)<br>
+8. ❗️ Opened issue [#57](https://github.com/gatagat/lap/issues/57) in [gatagat/lap](https://github.com/gatagat/lap)<br>
+9. 📔 Created new repository [neouranos/YOLOv8_ByteTrack_Supervision](https://github.com/neouranos/YOLOv8_ByteTrack_Supervision)<br>
+10. ⭐ Starred [ifzhang/ByteTrack](https://github.com/ifzhang/ByteTrack)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 10th, 2023, 12:41:33 AM
+Last Updated: Sunday, December 10th, 2023, 12:13:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
