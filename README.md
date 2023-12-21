@@ -66,20 +66,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)<br>
-2. ⭐ Starred [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)<br>
-3. ⭐ Starred [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO)<br>
-4. ⭐ Starred [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks)<br>
-5. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8_ByteTrack_Supervision](https://github.com/neouranos/YOLOv8_ByteTrack_Supervision)<br>
-6. ⭐ Starred [roboflow/notebooks](https://github.com/roboflow/notebooks)<br>
-7. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)<br>
-8. ⭐ Starred [rathaROG/lapx](https://github.com/rathaROG/lapx)<br>
-9. ❗️ Opened issue [#10](https://github.com/kadirnar/bytetrack-pip/issues/10) in [kadirnar/bytetrack-pip](https://github.com/kadirnar/bytetrack-pip)<br>
-10. ❗️ Opened issue [#57](https://github.com/gatagat/lap/issues/57) in [gatagat/lap](https://github.com/gatagat/lap)<br>
+1. ⭐ Starred [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension)<br>
+2. ⭐ Starred [acgotaku/YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)<br>
+3. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)<br>
+4. ⭐ Starred [agalwood/Motrix](https://github.com/agalwood/Motrix)<br>
+5. ⭐ Starred [aria2/aria2](https://github.com/aria2/aria2)<br>
+6. ⭐ Starred [subhra74/xdm](https://github.com/subhra74/xdm)<br>
+7. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)<br>
+8. ⭐ Starred [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)<br>
+9. ⭐ Starred [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO)<br>
+10. ⭐ Starred [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 20th, 2023, 12:12:06 PM
+Last Updated: Thursday, December 21st, 2023, 12:37:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
