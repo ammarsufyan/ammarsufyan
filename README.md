@@ -66,20 +66,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension)<br>
-2. ⭐ Starred [acgotaku/YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)<br>
-3. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)<br>
-4. ⭐ Starred [agalwood/Motrix](https://github.com/agalwood/Motrix)<br>
-5. ⭐ Starred [aria2/aria2](https://github.com/aria2/aria2)<br>
-6. ⭐ Starred [subhra74/xdm](https://github.com/subhra74/xdm)<br>
-7. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)<br>
-8. ⭐ Starred [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)<br>
-9. ⭐ Starred [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO)<br>
-10. ⭐ Starred [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks)<br>
+1. ⭐ Starred [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension)<br>
+2. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
+3. ⭐ Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)<br>
+4. ⭐ Starred [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)<br>
+5. ⭐ Starred [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)<br>
+6. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)<br>
+7. ⭐ Starred [pypa/virtualenv](https://github.com/pypa/virtualenv)<br>
+8. ⭐ Starred [pypa/pipx](https://github.com/pypa/pipx)<br>
+9. ⭐ Starred [pypa/pip](https://github.com/pypa/pip)<br>
+10. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 24th, 2023, 12:40:34 AM
+Last Updated: Sunday, December 24th, 2023, 12:12:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
