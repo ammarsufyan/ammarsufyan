@@ -66,20 +66,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension)<br>
-2. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
-3. ⭐ Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)<br>
-4. ⭐ Starred [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)<br>
-5. ⭐ Starred [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)<br>
-6. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)<br>
-7. ⭐ Starred [pypa/virtualenv](https://github.com/pypa/virtualenv)<br>
-8. ⭐ Starred [pypa/pipx](https://github.com/pypa/pipx)<br>
-9. ⭐ Starred [pypa/pip](https://github.com/pypa/pip)<br>
-10. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
+1. ⭐ Starred [Innei/Shiro](https://github.com/Innei/Shiro)<br>
+2. ⭐ Starred [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)<br>
+3. ⭐ Starred [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension)<br>
+4. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
+5. ⭐ Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)<br>
+6. ⭐ Starred [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)<br>
+7. ⭐ Starred [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)<br>
+8. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)<br>
+9. ⭐ Starred [pypa/virtualenv](https://github.com/pypa/virtualenv)<br>
+10. ⭐ Starred [pypa/pipx](https://github.com/pypa/pipx)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 25th, 2023, 12:14:04 PM
+Last Updated: Tuesday, December 26th, 2023, 12:36:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
