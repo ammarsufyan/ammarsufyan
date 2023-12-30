@@ -66,20 +66,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Innei/Shiro](https://github.com/Innei/Shiro)<br>
-2. ⭐ Starred [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)<br>
-3. ⭐ Starred [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension)<br>
-4. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
-5. ⭐ Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)<br>
-6. ⭐ Starred [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)<br>
-7. ⭐ Starred [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)<br>
-8. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)<br>
-9. ⭐ Starred [pypa/virtualenv](https://github.com/pypa/virtualenv)<br>
-10. ⭐ Starred [pypa/pipx](https://github.com/pypa/pipx)<br>
+1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+2. ⭐ Starred [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)<br>
+3. ⭐ Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)<br>
+4. ⭐ Starred [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF)<br>
+5. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
+6. ⭐ Starred [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)<br>
+7. ⭐ Starred [movie-web/movie-web](https://github.com/movie-web/movie-web)<br>
+8. ⭐ Starred [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)<br>
+9. ⬆️ Pushed 1 commit(s) to [neouranos/YOLOv8_ByteTrack_Supervision](https://github.com/neouranos/YOLOv8_ByteTrack_Supervision)<br>
+10. ⭐ Starred [Innei/Shiro](https://github.com/Innei/Shiro)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 29th, 2023, 12:12:23 PM
+Last Updated: Saturday, December 30th, 2023, 12:36:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
