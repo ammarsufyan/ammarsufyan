@@ -66,20 +66,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)<br>
-2. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)<br>
-3. ⭐ Starred [krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024)<br>
-4. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
-5. ⭐ Starred [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script)<br>
-6. ⭐ Starred [ossu/data-science](https://github.com/ossu/data-science)<br>
-7. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
-8. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)<br>
-9. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-10. ⭐ Starred [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)<br>
+1. ⭐ Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br>
+2. ⭐ Starred [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)<br>
+3. ⭐ Starred [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)<br>
+4. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)<br>
+5. ⭐ Starred [krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024)<br>
+6. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
+7. ⭐ Starred [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script)<br>
+8. ⭐ Starred [ossu/data-science](https://github.com/ossu/data-science)<br>
+9. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
+10. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 4th, 2024, 12:14:11 PM
+Last Updated: Friday, January 5th, 2024, 12:38:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
