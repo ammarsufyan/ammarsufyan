@@ -63,20 +63,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-2. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-3. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-4. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-5. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-6. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-7. ⬆️ Pushed 1 commit(s) to [neouranos/Sehatin](https://github.com/neouranos/Sehatin)<br>
-8. ⬆️ Pushed 1 commit(s) to [neouranos/HIMTI-LC-D](https://github.com/neouranos/HIMTI-LC-D)<br>
-9. ❌ Closed PR [#27112](https://github.com/google/it-cert-automation-practice/pull/27112) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)<br>
-10. ⬆️ Pushed 1 commit(s) to [neouranos/tesiscoconut](https://github.com/neouranos/tesiscoconut)<br>
+1. ⭐ Starred [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
+2. ⭐ Starred [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+3. ⭐ Starred [neouranos/HIMTI-LC-D](https://github.com/neouranos/HIMTI-LC-D)<br>
+4. ⭐ Starred [neouranos/Coconut-Quality-Classification](https://github.com/neouranos/Coconut-Quality-Classification)<br>
+5. ⭐ Starred [neouranos/Neo-Dotfiles](https://github.com/neouranos/Neo-Dotfiles)<br>
+6. ⭐ Starred [neouranos/Cats-Dogs-Classification](https://github.com/neouranos/Cats-Dogs-Classification)<br>
+7. ⭐ Starred [neouranos/WSN-2022](https://github.com/neouranos/WSN-2022)<br>
+8. ⭐ Starred [neouranos/EmailSpamDetection-WEKA](https://github.com/neouranos/EmailSpamDetection-WEKA)<br>
+9. ⭐ Starred [neouranos/Procedural-2D-Dungeon-Unity](https://github.com/neouranos/Procedural-2D-Dungeon-Unity)<br>
+10. ⭐ Starred [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 8th, 2024, 12:36:05 AM
+Last Updated: Thursday, February 8th, 2024, 12:13:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
