@@ -11,7 +11,6 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
 
 ## Languages
 
-![Kotlin](https://img.shields.io/badge/Kotlin-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-767cae?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -21,14 +20,12 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
 ## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQLServer](https://img.shields.io/badge/sql%20server-critical.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 ## Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-green.svg?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 # 🧷 Connect with me 
