@@ -63,20 +63,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ultralytics/JSON2YOLO](https://github.com/ultralytics/JSON2YOLO)<br>
-2. ⭐ Starred [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling)<br>
-3. ⭐ Starred [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-4. ⭐ Starred [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-5. ⭐ Starred [neouranos/HIMTI-LC-D](https://github.com/neouranos/HIMTI-LC-D)<br>
-6. ⭐ Starred [neouranos/Coconut-Quality-Classification](https://github.com/neouranos/Coconut-Quality-Classification)<br>
-7. ⭐ Starred [neouranos/Neo-Dotfiles](https://github.com/neouranos/Neo-Dotfiles)<br>
-8. ⭐ Starred [neouranos/Cats-Dogs-Classification](https://github.com/neouranos/Cats-Dogs-Classification)<br>
-9. ⭐ Starred [neouranos/WSN-2022](https://github.com/neouranos/WSN-2022)<br>
-10. ⭐ Starred [neouranos/EmailSpamDetection-WEKA](https://github.com/neouranos/EmailSpamDetection-WEKA)<br>
+1. ⭐ Starred [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)<br>
+2. ⭐ Starred [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)<br>
+3. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+4. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+5. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+6. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+7. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+8. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+9. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+10. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 10th, 2024, 12:35:02 AM
+Last Updated: Saturday, February 10th, 2024, 12:13:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
