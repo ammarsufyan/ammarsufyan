@@ -63,20 +63,20 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-2. ⭐ Starred [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-3. ⭐ Starred [neouranos/HIMTI-LC-D](https://github.com/neouranos/HIMTI-LC-D)<br>
-4. ⭐ Starred [neouranos/Coconut-Quality-Classification](https://github.com/neouranos/Coconut-Quality-Classification)<br>
-5. ⭐ Starred [neouranos/Neo-Dotfiles](https://github.com/neouranos/Neo-Dotfiles)<br>
-6. ⭐ Starred [neouranos/Cats-Dogs-Classification](https://github.com/neouranos/Cats-Dogs-Classification)<br>
-7. ⭐ Starred [neouranos/WSN-2022](https://github.com/neouranos/WSN-2022)<br>
-8. ⭐ Starred [neouranos/EmailSpamDetection-WEKA](https://github.com/neouranos/EmailSpamDetection-WEKA)<br>
-9. ⭐ Starred [neouranos/Procedural-2D-Dungeon-Unity](https://github.com/neouranos/Procedural-2D-Dungeon-Unity)<br>
-10. ⭐ Starred [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter)<br>
+1. ⭐ Starred [ultralytics/JSON2YOLO](https://github.com/ultralytics/JSON2YOLO)<br>
+2. ⭐ Starred [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling)<br>
+3. ⭐ Starred [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
+4. ⭐ Starred [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+5. ⭐ Starred [neouranos/HIMTI-LC-D](https://github.com/neouranos/HIMTI-LC-D)<br>
+6. ⭐ Starred [neouranos/Coconut-Quality-Classification](https://github.com/neouranos/Coconut-Quality-Classification)<br>
+7. ⭐ Starred [neouranos/Neo-Dotfiles](https://github.com/neouranos/Neo-Dotfiles)<br>
+8. ⭐ Starred [neouranos/Cats-Dogs-Classification](https://github.com/neouranos/Cats-Dogs-Classification)<br>
+9. ⭐ Starred [neouranos/WSN-2022](https://github.com/neouranos/WSN-2022)<br>
+10. ⭐ Starred [neouranos/EmailSpamDetection-WEKA](https://github.com/neouranos/EmailSpamDetection-WEKA)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 9th, 2024, 12:13:34 PM
+Last Updated: Saturday, February 10th, 2024, 12:35:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
