@@ -63,11 +63,11 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-2. ⭐ Starred [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)<br>
-3. ⭐ Starred [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)<br>
-4. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-5. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+1. ⭐ Starred [labelmeai/labelme](https://github.com/labelmeai/labelme)<br>
+2. ⭐ Starred [rooneysh/Labelme2YOLO](https://github.com/rooneysh/Labelme2YOLO)<br>
+3. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+4. ⭐ Starred [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)<br>
+5. ⭐ Starred [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)<br>
 6. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
 7. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
 8. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
@@ -76,7 +76,7 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 17th, 2024, 12:35:45 AM
+Last Updated: Saturday, February 17th, 2024, 12:12:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
