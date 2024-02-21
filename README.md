@@ -1,6 +1,6 @@
 # Hi there, I'm [Ammar Sufyan](https://neouranos.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
 
-Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
+Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=neouranos&style=for-the-badge&label=profile+views"> &nbsp;
@@ -15,6 +15,12 @@ Undergraduate Informatics Engineering Student at [UIN Syarif Hidayatullah Jakart
 ![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+
+## Frameworks ML/DL
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## Databases
 
