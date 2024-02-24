@@ -76,20 +76,20 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)<br>
-2. ⬆️ Pushed 2 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-3. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-4. ⭐ Starred [godotengine/godot](https://github.com/godotengine/godot)<br>
-5. ⭐ Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)<br>
-6. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-7. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-8. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-9. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
-10. ⬆️ Pushed 1 commit(s) to [neouranos/neouranos](https://github.com/neouranos/neouranos)<br>
+1. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
+2. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
+3. ⭐ Starred [google-deepmind/gemma](https://github.com/google-deepmind/gemma)<br>
+4. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
+5. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
+6. ⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)<br>
+7. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)<br>
+8. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
+9. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br>
+10. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 24th, 2024, 12:34:07 AM
+Last Updated: Saturday, February 24th, 2024, 12:12:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
