@@ -76,20 +76,20 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
-2. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
-3. ⭐ Starred [google-deepmind/gemma](https://github.com/google-deepmind/gemma)<br>
-4. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
-5. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
-6. ⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)<br>
-7. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)<br>
-8. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
-9. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br>
-10. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)<br>
+1. ⭐ Starred [laravel/framework](https://github.com/laravel/framework)<br>
+2. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
+3. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
+4. ⭐ Starred [google-deepmind/gemma](https://github.com/google-deepmind/gemma)<br>
+5. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
+6. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
+7. ⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)<br>
+8. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)<br>
+9. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
+10. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 27th, 2024, 12:35:55 AM
+Last Updated: Tuesday, February 27th, 2024, 12:13:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
