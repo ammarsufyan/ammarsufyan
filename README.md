@@ -76,20 +76,20 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+1. ⭐ Starred [bloc97/Anime4K](https://github.com/bloc97/Anime4K)<br>
 2. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-3. ⭐ Starred [laravel/framework](https://github.com/laravel/framework)<br>
-4. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
-5. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
-6. ⭐ Starred [google-deepmind/gemma](https://github.com/google-deepmind/gemma)<br>
-7. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
-8. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
-9. ⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)<br>
-10. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)<br>
+3. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+4. ⭐ Starred [laravel/framework](https://github.com/laravel/framework)<br>
+5. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
+6. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
+7. ⭐ Starred [google-deepmind/gemma](https://github.com/google-deepmind/gemma)<br>
+8. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
+9. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
+10. ⭐ Starred [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 1st, 2024, 12:40:25 AM
+Last Updated: Friday, March 1st, 2024, 12:13:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
