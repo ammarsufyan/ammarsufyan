@@ -1,9 +1,9 @@
-# Hi there, I'm [Ammar Sufyan](https://neouranos.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
+# Hi there, I'm [Ammar Sufyan](https://ammarsufyan.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
 
 Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=neouranos&style=for-the-badge&label=profile+views"> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ammarsufyan&style=for-the-badge&label=profile+views"> &nbsp;
 </div>
 
 # 📝 Skills
@@ -44,7 +44,7 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ammarsufyan/)
-[<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/neouranos/)
+[<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/ammarsufyan/)
 
 
 
@@ -58,18 +58,18 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
   
   [![wakatime](https://wakatime.com/badge/user/2eee44f5-c422-430b-9d69-1cd790f56c8a.svg)](https://wakatime.com/@2eee44f5-c422-430b-9d69-1cd790f56c8a)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neouranos&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsufyan&layout=compact&theme=radical)
 
-  ![Neouranos GitHub stats](https://github-readme-stats.vercel.app/api?username=neouranos&show_icons=true&theme=radical)
+  ![ammarsufyan GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarsufyan&show_icons=true&theme=radical)
 
-  ![Neouranos Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neouranos&theme=radical&langs_count=10)
+  ![ammarsufyan Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ammarsufyan&theme=radical&langs_count=10)
   
 </details>
 
 <details>
   <summary>🏆 GitHub Trophy</summary>
   <br/>
-  <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=neouranos&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
+  <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=ammarsufyan&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
 </details>
 
 <details>
@@ -78,8 +78,8 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Lissy93/web-check](https://github.com/Lissy93/web-check)<br>
 2. ⭐ Starred [bloc97/Anime4K](https://github.com/bloc97/Anime4K)<br>
-3. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
-4. ⬆️ Pushed 1 commit(s) to [neouranos/Copra-YOLOv8-GUI](https://github.com/neouranos/Copra-YOLOv8-GUI)<br>
+3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
+4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
 5. ⭐ Starred [laravel/framework](https://github.com/laravel/framework)<br>
 6. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
 7. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
