@@ -78,18 +78,18 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
 2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
-3. ⭐ Starred [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)<br>
-4. ⭐ Starred [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)<br>
-5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
-6. ⭐ Starred [GoulartNogueira/BadUI](https://github.com/GoulartNogueira/BadUI)<br>
+3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
+4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Coconut-Copra-YOLOv5-GUI](https://github.com/ammarsufyan/Coconut-Copra-YOLOv5-GUI)<br>
+5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Coconut-Copra-YOLOv5-GUI](https://github.com/ammarsufyan/Coconut-Copra-YOLOv5-GUI)<br>
+6. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
 7. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
-8. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-9. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-10. ⭐ Starred [marticliment/WingetUI](https://github.com/marticliment/WingetUI)<br>
+8. ⭐ Starred [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)<br>
+9. ⭐ Starred [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)<br>
+10. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 18th, 2024, 12:37:35 AM
+Last Updated: Monday, March 18th, 2024, 12:14:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
