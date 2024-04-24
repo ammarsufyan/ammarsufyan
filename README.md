@@ -89,7 +89,7 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 23rd, 2024, 12:16:15 PM
+Last Updated: Wednesday, April 24th, 2024, 12:37:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
