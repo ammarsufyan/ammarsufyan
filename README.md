@@ -80,15 +80,10 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 2. ⭐ Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 3. ⭐ Starred [cvat-ai/cvat](https://github.com/cvat-ai/cvat)<br>
 4. ⭐ Starred [xrce/sublie](https://github.com/xrce/sublie)<br>
-5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
-6. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
-7. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
-8. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Coconut-Copra-YOLOv5-GUI](https://github.com/ammarsufyan/Coconut-Copra-YOLOv5-GUI)<br>
-9. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Coconut-Copra-YOLOv5-GUI](https://github.com/ammarsufyan/Coconut-Copra-YOLOv5-GUI)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 19th, 2024, 12:41:13 AM
+Last Updated: Wednesday, June 19th, 2024, 12:16:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
