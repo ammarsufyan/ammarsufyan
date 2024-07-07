@@ -82,11 +82,10 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 4. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)<br>
 5. ⭐ Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 6. ⭐ Starred [cvat-ai/cvat](https://github.com/cvat-ai/cvat)<br>
-7. ⭐ Starred [xrce/sublie](https://github.com/xrce/sublie)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 7th, 2024, 12:45:42 AM
+Last Updated: Sunday, July 7th, 2024, 12:14:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
