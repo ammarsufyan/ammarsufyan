@@ -76,16 +76,17 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lrsjng/h5ai](https://github.com/lrsjng/h5ai)<br>
+1. ❌ Closed PR [#1](https://github.com/ammarsufyan/Copra-YOLOv8-GUI/pull/1) in [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
 2. ⭐ Starred [lrsjng/h5ai](https://github.com/lrsjng/h5ai)<br>
-3. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)<br>
-4. ⭐ Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-5. ⭐ Starred [cvat-ai/cvat](https://github.com/cvat-ai/cvat)<br>
-6. ⭐ Starred [xrce/sublie](https://github.com/xrce/sublie)<br>
+3. ⭐ Starred [lrsjng/h5ai](https://github.com/lrsjng/h5ai)<br>
+4. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)<br>
+5. ⭐ Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. ⭐ Starred [cvat-ai/cvat](https://github.com/cvat-ai/cvat)<br>
+7. ⭐ Starred [xrce/sublie](https://github.com/xrce/sublie)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 6th, 2024, 12:14:27 PM
+Last Updated: Sunday, July 7th, 2024, 12:45:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
