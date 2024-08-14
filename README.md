@@ -84,12 +84,10 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 6. ⭐ Starred [lrsjng/h5ai](https://github.com/lrsjng/h5ai)<br>
 7. ⭐ Starred [lrsjng/h5ai](https://github.com/lrsjng/h5ai)<br>
 8. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)<br>
-9. ⭐ Starred [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-10. ⭐ Starred [cvat-ai/cvat](https://github.com/cvat-ai/cvat)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 14th, 2024, 12:43:26 AM
+Last Updated: Wednesday, August 14th, 2024, 12:17:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
