@@ -76,20 +76,20 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
-2. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
-3. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)<br>
-4. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br>
-5. ⭐ Starred [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers)<br>
-6. ⭐ Starred [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)<br>
-7. ⭐ Starred [bayufedra/MBPTL](https://github.com/bayufedra/MBPTL)<br>
-8. ⭐ Starred [twofas/2fas-browser-extension](https://github.com/twofas/2fas-browser-extension)<br>
-9. ⭐ Starred [twofas/2fas-android](https://github.com/twofas/2fas-android)<br>
-10. ❌ Closed PR [#1](https://github.com/ammarsufyan/Copra-YOLOv8-GUI/pull/1) in [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
+1. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
+2. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
+3. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
+4. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)<br>
+5. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br>
+6. ⭐ Starred [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers)<br>
+7. ⭐ Starred [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)<br>
+8. ⭐ Starred [bayufedra/MBPTL](https://github.com/bayufedra/MBPTL)<br>
+9. ⭐ Starred [twofas/2fas-browser-extension](https://github.com/twofas/2fas-browser-extension)<br>
+10. ⭐ Starred [twofas/2fas-android](https://github.com/twofas/2fas-android)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 15th, 2024, 12:53:02 AM
+Last Updated: Sunday, September 15th, 2024, 12:16:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
