@@ -76,20 +76,20 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
-2. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
-3. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
-4. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)<br>
-5. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br>
-6. ⭐ Starred [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers)<br>
-7. ⭐ Starred [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)<br>
-8. ⭐ Starred [bayufedra/MBPTL](https://github.com/bayufedra/MBPTL)<br>
-9. ⭐ Starred [twofas/2fas-browser-extension](https://github.com/twofas/2fas-browser-extension)<br>
-10. ⭐ Starred [twofas/2fas-android](https://github.com/twofas/2fas-android)<br>
+1. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
+2. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
+3. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
+4. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
+5. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
+6. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
+7. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)<br>
+8. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br>
+9. ⭐ Starred [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers)<br>
+10. ⭐ Starred [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 20th, 2024, 12:47:18 AM
+Last Updated: Friday, September 20th, 2024, 12:18:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
