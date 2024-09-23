@@ -76,20 +76,20 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
-2. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
-3. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
-4. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
-5. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
-6. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
-7. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)<br>
-8. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br>
-9. ⭐ Starred [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers)<br>
-10. ⭐ Starred [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)<br>
+1. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
+2. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
+3. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
+4. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
+5. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
+6. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
+7. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
+8. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)<br>
+9. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br>
+10. ⭐ Starred [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 23rd, 2024, 12:49:59 AM
+Last Updated: Monday, September 23rd, 2024, 12:19:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
