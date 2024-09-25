@@ -76,20 +76,20 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
-2. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
-3. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
-4. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
-5. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
-6. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
-7. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
-8. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)<br>
-9. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br>
-10. ⭐ Starred [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers)<br>
+1. ⭐ Starred [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)<br>
+2. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
+3. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
+4. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
+5. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
+6. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
+7. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
+8. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
+9. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)<br>
+10. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 24th, 2024, 12:19:01 PM
+Last Updated: Wednesday, September 25th, 2024, 12:50:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
