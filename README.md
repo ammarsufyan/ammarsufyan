@@ -44,9 +44,6 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ammarsufyan/)
-[<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/ammarsufyan/)
-
-
 
 </p>
 
