@@ -82,11 +82,10 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 7. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
 8. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
 9. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
-10. ⭐ Starred [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 1st, 2024, 1:03:15 AM
+Last Updated: Sunday, December 1st, 2024, 12:20:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
