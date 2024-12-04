@@ -73,19 +73,10 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-2. ⭐ Starred [ermaccer/I2Hook](https://github.com/ermaccer/I2Hook)<br>
-3. ⭐ Starred [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)<br>
-4. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
-5. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
-6. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
-7. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
-8. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
-9. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 3rd, 2024, 12:20:48 PM
+Last Updated: Wednesday, December 4th, 2024, 12:55:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
