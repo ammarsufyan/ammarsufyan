@@ -81,11 +81,10 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 6. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
 7. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
 8. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
-9. ⭐ Starred [MatthiasValvekens/pyHanko](https://github.com/MatthiasValvekens/pyHanko)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 5th, 2024, 12:54:52 AM
+Last Updated: Thursday, December 5th, 2024, 12:21:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
