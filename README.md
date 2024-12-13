@@ -73,17 +73,19 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <br>
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-2. ⭐ Starred [ermaccer/I2Hook](https://github.com/ermaccer/I2Hook)<br>
-3. ⭐ Starred [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)<br>
-4. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
-5. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
-6. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
-7. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
-8. ⭐ Starred [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam)<br>
+2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+5. ⭐ Starred [ermaccer/I2Hook](https://github.com/ermaccer/I2Hook)<br>
+6. ⭐ Starred [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)<br>
+7. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
+8. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
+9. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
+10. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 13th, 2024, 12:55:35 AM
+Last Updated: Friday, December 13th, 2024, 12:20:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
