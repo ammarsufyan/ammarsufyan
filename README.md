@@ -72,20 +72,20 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+1. ⭐ Starred [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home)<br>
 2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
 3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
 4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-5. ⭐ Starred [ermaccer/I2Hook](https://github.com/ermaccer/I2Hook)<br>
-6. ⭐ Starred [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)<br>
-7. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
-8. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
-9. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
-10. ⭐ Starred [aiktb/FuriganaMaker](https://github.com/aiktb/FuriganaMaker)<br>
+5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+6. ⭐ Starred [ermaccer/I2Hook](https://github.com/ermaccer/I2Hook)<br>
+7. ⭐ Starred [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)<br>
+8. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
+9. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
+10. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 14th, 2024, 12:18:47 PM
+Last Updated: Sunday, December 15th, 2024, 12:59:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
