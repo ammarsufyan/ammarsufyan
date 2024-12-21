@@ -80,12 +80,10 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 6. ⭐ Starred [ermaccer/I2Hook](https://github.com/ermaccer/I2Hook)<br>
 7. ⭐ Starred [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)<br>
 8. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
-9. ⭐ Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)<br>
-10. ⭐ Starred [the-via/app](https://github.com/the-via/app)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 21st, 2024, 12:49:38 AM
+Last Updated: Saturday, December 21st, 2024, 12:17:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
