@@ -79,11 +79,10 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
 6. ⭐ Starred [ermaccer/I2Hook](https://github.com/ermaccer/I2Hook)<br>
 7. ⭐ Starred [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)<br>
-8. ⭐ Starred [Tichau/FileConverter](https://github.com/Tichau/FileConverter)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 23rd, 2024, 12:52:00 AM
+Last Updated: Monday, December 23rd, 2024, 12:19:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
