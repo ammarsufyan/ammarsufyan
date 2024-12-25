@@ -78,11 +78,10 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
 4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
 5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
 6. ⭐ Starred [ermaccer/I2Hook](https://github.com/ermaccer/I2Hook)<br>
-7. ⭐ Starred [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 25th, 2024, 12:49:48 AM
+Last Updated: Wednesday, December 25th, 2024, 12:18:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
