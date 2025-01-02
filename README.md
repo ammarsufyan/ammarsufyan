@@ -72,16 +72,20 @@ Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif H
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home)<br>
-2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-6. ⭐ Starred [ermaccer/I2Hook](https://github.com/ermaccer/I2Hook)<br>
+1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Procedural-2D-Dungeon-Unity](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)<br>
+2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Procedural-2D-Dungeon-Unity](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)<br>
+3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+4. ⭐ Starred [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+6. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+7. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+8. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+9. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+10. ⭐ Starred [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 1st, 2025, 12:19:00 PM
+Last Updated: Thursday, January 2nd, 2025, 12:49:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
