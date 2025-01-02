@@ -70,20 +70,20 @@ Bachelor of Informatics Engineering at [UIN Syarif Hidayatullah Jakarta](https:/
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Procedural-2D-Dungeon-Unity](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)<br>
-2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Procedural-2D-Dungeon-Unity](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)<br>
-3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
-4. ⭐ Starred [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
-5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
-6. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
-7. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+2. 💪 Opened PR [#2](https://github.com/Miladiu/Honkai-Star-Rail-Dialogue-Skipper/pull/2) in [Miladiu/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/Miladiu/Honkai-Star-Rail-Dialogue-Skipper)<br>
+3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+6. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Procedural-2D-Dungeon-Unity](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)<br>
+7. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Procedural-2D-Dungeon-Unity](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)<br>
 8. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
-9. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
-10. ⭐ Starred [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)<br>
+9. ⭐ Starred [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
+10. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 2nd, 2025, 12:49:54 AM
+Last Updated: Thursday, January 2nd, 2025, 12:19:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
