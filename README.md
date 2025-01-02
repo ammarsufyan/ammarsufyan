@@ -1,6 +1,6 @@
 # Hi there, I'm [Ammar Sufyan](https://ammarsufyan.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
 
-Fresh Graduate Informatics Engineering/Computer Science Student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
+Bachelor of Informatics Engineering Student at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=ammarsufyan&style=for-the-badge&label=profile+views"> &nbsp;
