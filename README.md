@@ -57,8 +57,6 @@ Bachelor of Informatics Engineering at [UIN Syarif Hidayatullah Jakarta](https:/
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsufyan&layout=compact&theme=radical)
 
   ![ammarsufyan GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarsufyan&show_icons=true&theme=radical)
-
-  ![ammarsufyan Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ammarsufyan&theme=radical&langs_count=10)
   
 </details>
 
