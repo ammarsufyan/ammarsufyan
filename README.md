@@ -77,13 +77,10 @@ Bachelor of Informatics Engineering at [UIN Syarif Hidayatullah Jakarta](https:/
 5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
 6. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
 7. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-8. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Procedural-2D-Dungeon-Unity](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)<br>
-9. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Procedural-2D-Dungeon-Unity](https://github.com/ammarsufyan/Procedural-2D-Dungeon-Unity)<br>
-10. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper](https://github.com/ammarsufyan/Honkai-Star-Rail-Dialogue-Skipper)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 31st, 2025, 12:18:30 PM
+Last Updated: Saturday, February 1st, 2025, 12:52:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
