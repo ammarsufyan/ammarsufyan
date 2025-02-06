@@ -70,10 +70,11 @@ Bachelor of Informatics Engineering at [UIN Syarif Hidayatullah Jakarta](https:/
     <summary>⚡ GitHub Recent Activity</summary>
     <br>
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)<br>
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 5th, 2025, 12:19:43 PM
+Last Updated: Thursday, February 6th, 2025, 12:50:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
