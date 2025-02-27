@@ -74,7 +74,7 @@ Bachelor of Informatics Engineering at [UIN Syarif Hidayatullah Jakarta](https:/
 <!--RECENT_ACTIVITY:end-->
     <br>
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 26th, 2025, 12:20:36 PM
+Last Updated: Thursday, February 27th, 2025, 12:51:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
