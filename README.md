@@ -1,78 +1,93 @@
-# Hi there, I'm [Ammar Sufyan](https://ammarsufyan.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
+# Hi there, My name is [Ammar Sufyan](https://ammarsufyan.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
 
-Bachelor of Informatics Engineering at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
+- 🎓 Bachelor of Informatics Engineering/Computer Science at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
+- 💻 iOS Developer at [Apple Developer Academy Binus Tangerang](https://developeracademy.apps.binus.ac.id/), Indonesia.
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=ammarsufyan&style=for-the-badge&label=profile+views"> &nbsp;
-</div>
+## 📝 Skills
 
-# 📝 Skills
+<details open>
+  <summary>💻 Programming Languages</summary>
+  <br>
+  
+  [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+</details>
 
-## Languages
+<details open>
+  <summary>📚 Frameworks</summary>
+  <br>
+  
+  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+</details>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![PHP](https://img.shields.io/badge/php-767cae?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+<details open>
+  <summary>🗄️ Databases</summary>
+  <br>
+  
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+  [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+</details>
 
-## Frameworks
+<details open>
+  <summary>🛠 Tools</summary>
+  <br>
+  
+  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+  [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+  [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+  [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
+  [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
+</details>
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
+<details open>
+  <summary>💻 Operating Systems</summary>
+  <br>
+  
+  [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+  [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+  [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+  [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+</details>
 
-## Databases
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-## Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-
-## Operating Systems
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)&nbsp;
-
-# 🧷 Connect with me 
-
-<p align = "center">
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ammarsufyan/)
-
+## 🧷 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ammarsufyan/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+  </a>
 </p>
 
-# ⚙️ Github Statistics
-
+## ⚙️ GitHub Statistics
 <details>
   <summary>🎛️ GitHub Profile Stats</summary>
   <br>
   
   [![wakatime](https://wakatime.com/badge/user/2eee44f5-c422-430b-9d69-1cd790f56c8a.svg)](https://wakatime.com/@2eee44f5-c422-430b-9d69-1cd790f56c8a)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsufyan&layout=compact&theme=radical)
-
-  ![ammarsufyan GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarsufyan&show_icons=true&theme=radical)
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsufyan&layout=compact&theme=radical)
+  
+  ![ammarsufyan GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarsufyan&show_icons=true&theme=radical)
 </details>
 
 <details>
   <summary>🏆 GitHub Trophy</summary>
-  <br/>
+  <br>
+  
   <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=ammarsufyan&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
-</details>
+</details>  
 
 <details>
-    <summary>⚡ GitHub Recent Activity</summary>
-    <br>
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-<!--RECENT_ACTIVITY:end-->
-    <br>
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 2nd, 2025, 12:55:09 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
+  <summary>🚀 Github Recent Activity</summary>
+  <br>
+  
+  <!--RECENT_ACTIVITY:start-->
+  1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+  <!--RECENT_ACTIVITY:end-->
+  
+  <!--RECENT_ACTIVITY:last_update-->
+  Last Updated: Wednesday, April 2nd, 2025, 12:55:09 AM
+  <!--RECENT_ACTIVITY:last_update_end-->
 </details>
