@@ -18,7 +18,8 @@
 <details open>
   <summary>📚 Frameworks</summary>
   <br>
-  
+
+  [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
   [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 </details>
 
@@ -80,7 +81,7 @@
 </details>  
 
 <details>
-  <summary>🚀 Github Recent Activity</summary>
+  <summary>🚀 GitHub Recent Activity</summary>
   <br>
   
   <!--RECENT_ACTIVITY:start-->
