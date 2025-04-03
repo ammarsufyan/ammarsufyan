@@ -85,10 +85,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+1. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)<br>
+2. ⭐ Starred [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)<br>
+3. ⭐ Starred [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)<br>
+4. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
+5. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br>
+6. ⭐ Starred [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
+7. ⭐ Starred [m-bain/whisperX](https://github.com/m-bain/whisperX)<br>
+8. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
+9. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
+10. ⭐ Starred [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 2nd, 2025, 12:21:44 PM
+Last Updated: Thursday, April 3rd, 2025, 12:54:30 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
