@@ -85,19 +85,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-2. 💪 Opened PR [#193](https://github.com/inttter/md-badges/pull/193) in [inttter/md-badges](https://github.com/inttter/md-badges)<br>
-3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/md-badges](https://github.com/ammarsufyan/md-badges)<br>
-4. 🔱 Forked [ammarsufyan/md-badges](https://github.com/ammarsufyan/md-badges) from [inttter/md-badges](https://github.com/inttter/md-badges)<br>
-5. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)<br>
-6. ⭐ Starred [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)<br>
-7. ⭐ Starred [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)<br>
-8. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
-9. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br>
-10. ⭐ Starred [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
+1. ⭐ Starred [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser)<br>
+2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+3. 💪 Opened PR [#193](https://github.com/inttter/md-badges/pull/193) in [inttter/md-badges](https://github.com/inttter/md-badges)<br>
+4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/md-badges](https://github.com/ammarsufyan/md-badges)<br>
+5. 🔱 Forked [ammarsufyan/md-badges](https://github.com/ammarsufyan/md-badges) from [inttter/md-badges](https://github.com/inttter/md-badges)<br>
+6. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)<br>
+7. ⭐ Starred [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)<br>
+8. ⭐ Starred [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)<br>
+9. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
+10. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 4th, 2025, 12:54:12 AM
+Last Updated: Friday, April 4th, 2025, 12:20:47 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
