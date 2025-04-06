@@ -85,19 +85,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser)<br>
-2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-3. 💪 Opened PR [#193](https://github.com/inttter/md-badges/pull/193) in [inttter/md-badges](https://github.com/inttter/md-badges)<br>
-4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/md-badges](https://github.com/ammarsufyan/md-badges)<br>
-5. 🔱 Forked [ammarsufyan/md-badges](https://github.com/ammarsufyan/md-badges) from [inttter/md-badges](https://github.com/inttter/md-badges)<br>
-6. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)<br>
-7. ⭐ Starred [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)<br>
-8. ⭐ Starred [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)<br>
-9. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
-10. ⭐ Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)<br>
+1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/md-badges](https://github.com/ammarsufyan/md-badges)<br>
+2. ⭐ Starred [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser)<br>
+3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+4. 💪 Opened PR [#193](https://github.com/inttter/md-badges/pull/193) in [inttter/md-badges](https://github.com/inttter/md-badges)<br>
+5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/md-badges](https://github.com/ammarsufyan/md-badges)<br>
+6. 🔱 Forked [ammarsufyan/md-badges](https://github.com/ammarsufyan/md-badges) from [inttter/md-badges](https://github.com/inttter/md-badges)<br>
+7. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)<br>
+8. ⭐ Starred [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)<br>
+9. ⭐ Starred [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)<br>
+10. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 5th, 2025, 12:18:44 PM
+Last Updated: Sunday, April 6th, 2025, 12:58:13 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
