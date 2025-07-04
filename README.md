@@ -85,11 +85,11 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/PocketInterview](https://github.com/ammarsufyan/PocketInterview)<br>
-2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/PocketInterview](https://github.com/ammarsufyan/PocketInterview)<br>
-3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/PocketInterview](https://github.com/ammarsufyan/PocketInterview)<br>
-4. ⬆️ Pushed 1 commit(s) to [ammarsufyan/PocketInterview](https://github.com/ammarsufyan/PocketInterview)<br>
-5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/PocketInterview](https://github.com/ammarsufyan/PocketInterview)<br>
+1. ⭐ Starred [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)<br>
+2. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
+3. ⬆️ Pushed 6 commit(s) to [KRook0110/Dont-Blink-C3](https://github.com/KRook0110/Dont-Blink-C3)<br>
+4. 🎉 Merged PR [#16](https://github.com/KRook0110/Dont-Blink-C3/pull/16) in [KRook0110/Dont-Blink-C3](https://github.com/KRook0110/Dont-Blink-C3)<br>
+5. 💪 Opened PR [#16](https://github.com/KRook0110/Dont-Blink-C3/pull/16) in [KRook0110/Dont-Blink-C3](https://github.com/KRook0110/Dont-Blink-C3)<br>
 6. ⬆️ Pushed 1 commit(s) to [ammarsufyan/PocketInterview](https://github.com/ammarsufyan/PocketInterview)<br>
 7. ⬆️ Pushed 1 commit(s) to [ammarsufyan/PocketInterview](https://github.com/ammarsufyan/PocketInterview)<br>
 8. ⬆️ Pushed 1 commit(s) to [ammarsufyan/PocketInterview](https://github.com/ammarsufyan/PocketInterview)<br>
@@ -98,6 +98,6 @@
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 3rd, 2025, 12:24:12 PM
+Last Updated: Friday, July 4th, 2025, 12:59:53 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
