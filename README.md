@@ -65,9 +65,7 @@
 <details>
   <summary>🎛️ GitHub Profile Stats</summary>
   <br>
-  
-  [![wakatime](https://wakatime.com/badge/user/2eee44f5-c422-430b-9d69-1cd790f56c8a.svg)](https://wakatime.com/@2eee44f5-c422-430b-9d69-1cd790f56c8a)
-  
+    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsufyan&layout=compact&theme=radical)
   
   ![ammarsufyan GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarsufyan&show_icons=true&theme=radical)
