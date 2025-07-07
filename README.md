@@ -83,19 +83,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [maftuh23/sqllite-api-wilayah-indonesia](https://github.com/maftuh23/sqllite-api-wilayah-indonesia)<br>
-2. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
-3. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
-4. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
-5. ⭐ Starred [onlook-dev/onlook](https://github.com/onlook-dev/onlook)<br>
-6. ⭐ Starred [iib0011/omni-tools](https://github.com/iib0011/omni-tools)<br>
-7. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-8. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)<br>
-9. ⭐ Starred [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)<br>
-10. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
+1. ⭐ Starred [iina/iina](https://github.com/iina/iina)<br>
+2. ⭐ Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)<br>
+3. ⭐ Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)<br>
+4. ⭐ Starred [maftuh23/sqllite-api-wilayah-indonesia](https://github.com/maftuh23/sqllite-api-wilayah-indonesia)<br>
+5. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
+6. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
+7. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
+8. ⭐ Starred [onlook-dev/onlook](https://github.com/onlook-dev/onlook)<br>
+9. ⭐ Starred [iib0011/omni-tools](https://github.com/iib0011/omni-tools)<br>
+10. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 7th, 2025, 1:04:40 AM
+Last Updated: Monday, July 7th, 2025, 12:24:01 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
