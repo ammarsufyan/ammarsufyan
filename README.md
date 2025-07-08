@@ -83,19 +83,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iina/iina](https://github.com/iina/iina)<br>
-2. ⭐ Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)<br>
-3. ⭐ Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)<br>
-4. ⭐ Starred [maftuh23/sqllite-api-wilayah-indonesia](https://github.com/maftuh23/sqllite-api-wilayah-indonesia)<br>
-5. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
-6. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
-7. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
-8. ⭐ Starred [onlook-dev/onlook](https://github.com/onlook-dev/onlook)<br>
-9. ⭐ Starred [iib0011/omni-tools](https://github.com/iib0011/omni-tools)<br>
-10. ⬆️ Pushed 1 commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+2. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+3. ⭐ Starred [iina/iina](https://github.com/iina/iina)<br>
+4. ⭐ Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)<br>
+5. ⭐ Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)<br>
+6. ⭐ Starred [maftuh23/sqllite-api-wilayah-indonesia](https://github.com/maftuh23/sqllite-api-wilayah-indonesia)<br>
+7. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
+8. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
+9. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
+10. ⭐ Starred [onlook-dev/onlook](https://github.com/onlook-dev/onlook)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 8th, 2025, 1:00:47 AM
+Last Updated: Tuesday, July 8th, 2025, 12:24:58 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
