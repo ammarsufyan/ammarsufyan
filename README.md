@@ -83,19 +83,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-2. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-3. ⭐ Starred [iina/iina](https://github.com/iina/iina)<br>
-4. ⭐ Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)<br>
-5. ⭐ Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)<br>
-6. ⭐ Starred [maftuh23/sqllite-api-wilayah-indonesia](https://github.com/maftuh23/sqllite-api-wilayah-indonesia)<br>
-7. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
-8. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
-9. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
-10. ⭐ Starred [onlook-dev/onlook](https://github.com/onlook-dev/onlook)<br>
+1. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
+2. 📔 Created new repository [ammarsufyan/UnityTutorial](https://github.com/ammarsufyan/UnityTutorial)<br>
+3. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+4. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+5. ⭐ Starred [iina/iina](https://github.com/iina/iina)<br>
+6. ⭐ Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)<br>
+7. ⭐ Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)<br>
+8. ⭐ Starred [maftuh23/sqllite-api-wilayah-indonesia](https://github.com/maftuh23/sqllite-api-wilayah-indonesia)<br>
+9. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
+10. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 13th, 2025, 12:22:09 PM
+Last Updated: Monday, July 14th, 2025, 1:05:06 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
