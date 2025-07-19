@@ -83,19 +83,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
-2. 📔 Created new repository [ammarsufyan/UnityTutorial](https://github.com/ammarsufyan/UnityTutorial)<br>
-3. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+1. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)<br>
+2. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
+3. 📔 Created new repository [ammarsufyan/UnityTutorial](https://github.com/ammarsufyan/UnityTutorial)<br>
 4. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-5. ⭐ Starred [iina/iina](https://github.com/iina/iina)<br>
-6. ⭐ Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)<br>
-7. ⭐ Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)<br>
-8. ⭐ Starred [maftuh23/sqllite-api-wilayah-indonesia](https://github.com/maftuh23/sqllite-api-wilayah-indonesia)<br>
-9. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
-10. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
+5. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+6. ⭐ Starred [iina/iina](https://github.com/iina/iina)<br>
+7. ⭐ Starred [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)<br>
+8. ⭐ Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)<br>
+9. ⭐ Starred [maftuh23/sqllite-api-wilayah-indonesia](https://github.com/maftuh23/sqllite-api-wilayah-indonesia)<br>
+10. ⭐ Starred [boxqkrtm/com.unity.ide.cursor](https://github.com/boxqkrtm/com.unity.ide.cursor)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 19th, 2025, 1:01:22 AM
+Last Updated: Saturday, July 19th, 2025, 12:22:01 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
