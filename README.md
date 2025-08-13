@@ -83,19 +83,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)<br>
-2. ⭐ Starred [github/CopilotForXcode](https://github.com/github/CopilotForXcode)<br>
-3. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
-4. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)<br>
-5. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
-6. ⭐ Starred [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components)<br>
-7. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
-8. ⭐ Starred [openai/codex](https://github.com/openai/codex)<br>
-9. ⬆️ Pushed 1 commit(s) to [ammarsufyan/Dont-Blink](https://github.com/ammarsufyan/Dont-Blink)<br>
-10. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)<br>
+1. ⭐ Starred [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)<br>
+2. ⭐ Starred [rive-app/rive-ios](https://github.com/rive-app/rive-ios)<br>
+3. ⭐ Starred [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)<br>
+4. ⭐ Starred [github/CopilotForXcode](https://github.com/github/CopilotForXcode)<br>
+5. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
+6. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)<br>
+7. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
+8. ⭐ Starred [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components)<br>
+9. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
+10. ⭐ Starred [openai/codex](https://github.com/openai/codex)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 12th, 2025, 12:24:21 PM
+Last Updated: Wednesday, August 13th, 2025, 1:00:39 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
