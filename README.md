@@ -83,19 +83,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift)<br>
-2. 🔱 Forked [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift) from [AdaGOP/MealSwift](https://github.com/AdaGOP/MealSwift)<br>
-3. ⭐ Starred [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode)<br>
-4. ⭐ Starred [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)<br>
-5. ⭐ Starred [rive-app/rive-ios](https://github.com/rive-app/rive-ios)<br>
-6. ⭐ Starred [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)<br>
-7. ⭐ Starred [github/CopilotForXcode](https://github.com/github/CopilotForXcode)<br>
-8. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
-9. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)<br>
-10. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
+1. 🔱 Forked [ammarsufyan/learning-swiftui-when-you-already-know-uikit](https://github.com/ammarsufyan/learning-swiftui-when-you-already-know-uikit) from [vincent-pradeilles/learning-swiftui-when-you-already-know-uikit](https://github.com/vincent-pradeilles/learning-swiftui-when-you-already-know-uikit)<br>
+2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift)<br>
+3. 🔱 Forked [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift) from [AdaGOP/MealSwift](https://github.com/AdaGOP/MealSwift)<br>
+4. ⭐ Starred [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode)<br>
+5. ⭐ Starred [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)<br>
+6. ⭐ Starred [rive-app/rive-ios](https://github.com/rive-app/rive-ios)<br>
+7. ⭐ Starred [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)<br>
+8. ⭐ Starred [github/CopilotForXcode](https://github.com/github/CopilotForXcode)<br>
+9. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
+10. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 24th, 2025, 1:02:57 AM
+Last Updated: Sunday, August 24th, 2025, 12:20:49 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
