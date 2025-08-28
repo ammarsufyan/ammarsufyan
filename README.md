@@ -83,19 +83,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [ammarsufyan/learning-swiftui-when-you-already-know-uikit](https://github.com/ammarsufyan/learning-swiftui-when-you-already-know-uikit) from [vincent-pradeilles/learning-swiftui-when-you-already-know-uikit](https://github.com/vincent-pradeilles/learning-swiftui-when-you-already-know-uikit)<br>
-2. ⬆️ Pushed 1 commit(s) to [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift)<br>
-3. 🔱 Forked [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift) from [AdaGOP/MealSwift](https://github.com/AdaGOP/MealSwift)<br>
-4. ⭐ Starred [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode)<br>
-5. ⭐ Starred [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)<br>
-6. ⭐ Starred [rive-app/rive-ios](https://github.com/rive-app/rive-ios)<br>
-7. ⭐ Starred [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)<br>
-8. ⭐ Starred [github/CopilotForXcode](https://github.com/github/CopilotForXcode)<br>
-9. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
-10. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)<br>
+1. ⭐ Starred [yomidevs/yomitan](https://github.com/yomidevs/yomitan)<br>
+2. 🔱 Forked [ammarsufyan/learning-swiftui-when-you-already-know-uikit](https://github.com/ammarsufyan/learning-swiftui-when-you-already-know-uikit) from [vincent-pradeilles/learning-swiftui-when-you-already-know-uikit](https://github.com/vincent-pradeilles/learning-swiftui-when-you-already-know-uikit)<br>
+3. ⬆️ Pushed 1 commit(s) to [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift)<br>
+4. 🔱 Forked [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift) from [AdaGOP/MealSwift](https://github.com/AdaGOP/MealSwift)<br>
+5. ⭐ Starred [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode)<br>
+6. ⭐ Starred [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)<br>
+7. ⭐ Starred [rive-app/rive-ios](https://github.com/rive-app/rive-ios)<br>
+8. ⭐ Starred [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)<br>
+9. ⭐ Starred [github/CopilotForXcode](https://github.com/github/CopilotForXcode)<br>
+10. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 27th, 2025, 12:22:32 PM
+Last Updated: Thursday, August 28th, 2025, 12:54:58 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
