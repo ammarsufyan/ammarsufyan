@@ -90,12 +90,9 @@
 5. ⬆️ Pushed 1 commit(s) to [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift)<br>
 6. 🔱 Forked [ammarsufyan/MealSwift](https://github.com/ammarsufyan/MealSwift) from [AdaGOP/MealSwift](https://github.com/AdaGOP/MealSwift)<br>
 7. ⭐ Starred [seanhenry/SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode)<br>
-8. ⭐ Starred [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)<br>
-9. ⭐ Starred [rive-app/rive-ios](https://github.com/rive-app/rive-ios)<br>
-10. ⭐ Starred [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 11th, 2025, 12:54:21 AM
+Last Updated: Thursday, September 11th, 2025, 12:21:39 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
