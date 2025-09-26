@@ -83,12 +83,13 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tombonez/noTunes](https://github.com/tombonez/noTunes)<br>
-2. ⭐ Starred [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher)<br>
-3. ⭐ Starred [yomidevs/yomitan](https://github.com/yomidevs/yomitan)<br>
+1. ⭐ Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)<br>
+2. ⭐ Starred [tombonez/noTunes](https://github.com/tombonez/noTunes)<br>
+3. ⭐ Starred [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher)<br>
+4. ⭐ Starred [yomidevs/yomitan](https://github.com/yomidevs/yomitan)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 25th, 2025, 12:23:25 PM
+Last Updated: Friday, September 26th, 2025, 12:53:53 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
