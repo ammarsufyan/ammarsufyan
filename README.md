@@ -84,10 +84,9 @@
   
   <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)<br>
-2. ⭐ Starred [tombonez/noTunes](https://github.com/tombonez/noTunes)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 3rd, 2025, 12:53:09 AM
+Last Updated: Friday, October 3rd, 2025, 12:21:50 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
