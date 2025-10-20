@@ -83,10 +83,11 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)<br>
+1. ⭐ Starred [apple/unityplugins](https://github.com/apple/unityplugins)<br>
+2. ⭐ Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 20th, 2025, 12:59:35 AM
+Last Updated: Monday, October 20th, 2025, 12:23:59 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
