@@ -85,10 +85,9 @@
   <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app)<br>
 2. ⭐ Starred [apple/unityplugins](https://github.com/apple/unityplugins)<br>
-3. ⭐ Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 25th, 2025, 12:54:22 AM
+Last Updated: Saturday, October 25th, 2025, 12:20:08 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
