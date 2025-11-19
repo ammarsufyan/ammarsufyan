@@ -84,10 +84,9 @@
   
   <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app)<br>
-2. ⭐ Starred [apple/unityplugins](https://github.com/apple/unityplugins)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 19th, 2025, 12:58:18 AM
+Last Updated: Wednesday, November 19th, 2025, 12:24:45 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
