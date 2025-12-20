@@ -83,10 +83,11 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)<br>
+1. ⭐ Starred [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector)<br>
+2. ⭐ Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 19th, 2025, 12:25:17 PM
+Last Updated: Saturday, December 20th, 2025, 12:58:23 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
