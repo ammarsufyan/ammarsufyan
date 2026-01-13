@@ -1,7 +1,7 @@
 # Hi there, My name is [Ammar Sufyan](https://ammarsufyan.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
 
-- 🎓 Bachelor of Informatics at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
-- 💻 Apple Developer at [Apple Developer Academy Binus Tangerang](https://developeracademy.apps.binus.ac.id/), Indonesia.
+- 🎓 Bachelor of Computer Science (Informatics) at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
+- 💻 Apple Developer Academy Alumni at [Apple Developer Academy Binus Tangerang](https://developeracademy.apps.binus.ac.id/), Indonesia.
 
 ## 📝 Skills
 
