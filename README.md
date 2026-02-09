@@ -59,6 +59,9 @@
   <a href="https://www.linkedin.com/in/ammarsufyan/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
+  <a href="https://steamcommunity.com/id/ammarsufyan/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Steam-000000?logo=steam" alt="Steam">
+  </a>
 </p>
 
 ## ⚙️ GitHub Statistics
