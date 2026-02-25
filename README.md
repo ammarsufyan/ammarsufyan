@@ -84,19 +84,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-2. ⭐ Starred [numman-ali/openskills](https://github.com/numman-ali/openskills)<br>
-3. ⭐ Starred [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)<br>
-4. ⭐ Starred [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents)<br>
-5. ⬆️ Pushed undefined commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-6. ⬆️ Pushed undefined commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-7. ⬆️ Pushed undefined commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-8. ⭐ Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)<br>
-9. ⭐ Starred [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)<br>
-10. ⭐ Starred [Draculabo/AntigravityManager](https://github.com/Draculabo/AntigravityManager)<br>
+1. ⭐ Starred [penggguna/QuranJSON](https://github.com/penggguna/QuranJSON)<br>
+2. ⭐ Starred [risan/quran-json](https://github.com/risan/quran-json)<br>
+3. ⭐ Starred [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)<br>
+4. ⭐ Starred [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill)<br>
+5. ⭐ Starred [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)<br>
+6. ⭐ Starred [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)<br>
+7. ⭐ Starred [gnachman/iTerm2](https://github.com/gnachman/iTerm2)<br>
+8. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+9. ⭐ Starred [numman-ali/openskills](https://github.com/numman-ali/openskills)<br>
+10. ⭐ Starred [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 25th, 2026, 1:21:10 AM
+Last Updated: Wednesday, February 25th, 2026, 12:41:34 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
