@@ -84,19 +84,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [penggguna/QuranJSON](https://github.com/penggguna/QuranJSON)<br>
-2. ⭐ Starred [risan/quran-json](https://github.com/risan/quran-json)<br>
-3. ⭐ Starred [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)<br>
-4. ⭐ Starred [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill)<br>
-5. ⭐ Starred [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)<br>
-6. ⭐ Starred [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)<br>
-7. ⭐ Starred [gnachman/iTerm2](https://github.com/gnachman/iTerm2)<br>
-8. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-9. ⭐ Starred [numman-ali/openskills](https://github.com/numman-ali/openskills)<br>
-10. ⭐ Starred [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents)<br>
+1. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)<br>
+2. ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)<br>
+3. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+4. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
+5. ⭐ Starred [penggguna/QuranJSON](https://github.com/penggguna/QuranJSON)<br>
+6. ⭐ Starred [risan/quran-json](https://github.com/risan/quran-json)<br>
+7. ⭐ Starred [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)<br>
+8. ⭐ Starred [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill)<br>
+9. ⭐ Starred [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)<br>
+10. ⭐ Starred [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 25th, 2026, 12:41:34 PM
+Last Updated: Thursday, February 26th, 2026, 1:15:25 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
