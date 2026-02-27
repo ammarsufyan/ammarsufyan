@@ -84,19 +84,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)<br>
-2. ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)<br>
-3. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
-4. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
-5. ⭐ Starred [penggguna/QuranJSON](https://github.com/penggguna/QuranJSON)<br>
-6. ⭐ Starred [risan/quran-json](https://github.com/risan/quran-json)<br>
-7. ⭐ Starred [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)<br>
-8. ⭐ Starred [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill)<br>
-9. ⭐ Starred [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)<br>
-10. ⭐ Starred [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)<br>
+1. ⭐ Starred [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)<br>
+2. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)<br>
+3. ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)<br>
+4. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+5. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
+6. ⭐ Starred [penggguna/QuranJSON](https://github.com/penggguna/QuranJSON)<br>
+7. ⭐ Starred [risan/quran-json](https://github.com/risan/quran-json)<br>
+8. ⭐ Starred [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)<br>
+9. ⭐ Starred [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill)<br>
+10. ⭐ Starred [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 26th, 2026, 12:41:58 PM
+Last Updated: Friday, February 27th, 2026, 1:14:28 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
