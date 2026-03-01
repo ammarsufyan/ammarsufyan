@@ -84,19 +84,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)<br>
-2. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)<br>
-3. ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)<br>
-4. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
-5. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
-6. ⭐ Starred [penggguna/QuranJSON](https://github.com/penggguna/QuranJSON)<br>
-7. ⭐ Starred [risan/quran-json](https://github.com/risan/quran-json)<br>
-8. ⭐ Starred [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)<br>
-9. ⭐ Starred [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill)<br>
-10. ⭐ Starred [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill)<br>
+1. ⭐ Starred [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware)<br>
+2. ⭐ Starred [rashevskyv/dbi](https://github.com/rashevskyv/dbi)<br>
+3. ⭐ Starred [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)<br>
+4. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)<br>
+5. ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)<br>
+6. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+7. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
+8. ⭐ Starred [penggguna/QuranJSON](https://github.com/penggguna/QuranJSON)<br>
+9. ⭐ Starred [risan/quran-json](https://github.com/risan/quran-json)<br>
+10. ⭐ Starred [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 28th, 2026, 12:27:11 PM
+Last Updated: Sunday, March 1st, 2026, 1:24:17 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
