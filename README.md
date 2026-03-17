@@ -84,19 +84,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [YuriCernov/swiftui-app-template](https://github.com/YuriCernov/swiftui-app-template)<br>
-2. ⭐ Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)<br>
-3. ⭐ Starred [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware)<br>
-4. ⭐ Starred [rashevskyv/dbi](https://github.com/rashevskyv/dbi)<br>
-5. ⭐ Starred [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)<br>
-6. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)<br>
-7. ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)<br>
-8. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
-9. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
-10. ⭐ Starred [penggguna/QuranJSON](https://github.com/penggguna/QuranJSON)<br>
+1. ⭐ Starred [iib0011/omni-tools](https://github.com/iib0011/omni-tools)<br>
+2. ⭐ Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
+3. ⭐ Starred [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents)<br>
+4. ⭐ Starred [twostraws/Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill)<br>
+5. ⭐ Starred [twostraws/Swift-Testing-Agent-Skill](https://github.com/twostraws/Swift-Testing-Agent-Skill)<br>
+6. ⭐ Starred [twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill)<br>
+7. ⭐ Starred [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)<br>
+8. ⭐ Starred [YuriCernov/swiftui-app-template](https://github.com/YuriCernov/swiftui-app-template)<br>
+9. ⭐ Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)<br>
+10. ⭐ Starred [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 16th, 2026, 12:50:37 PM
+Last Updated: Tuesday, March 17th, 2026, 1:17:51 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
