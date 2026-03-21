@@ -84,19 +84,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LOUDO56/PyMacroRecord](https://github.com/LOUDO56/PyMacroRecord)<br>
-2. ⭐ Starred [iib0011/omni-tools](https://github.com/iib0011/omni-tools)<br>
-3. ⭐ Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
-4. ⭐ Starred [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents)<br>
-5. ⭐ Starred [twostraws/Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill)<br>
-6. ⭐ Starred [twostraws/Swift-Testing-Agent-Skill](https://github.com/twostraws/Swift-Testing-Agent-Skill)<br>
-7. ⭐ Starred [twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill)<br>
-8. ⭐ Starred [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)<br>
-9. ⭐ Starred [YuriCernov/swiftui-app-template](https://github.com/YuriCernov/swiftui-app-template)<br>
-10. ⭐ Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)<br>
+1. ⭐ Starred [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)<br>
+2. ⭐ Starred [LOUDO56/PyMacroRecord](https://github.com/LOUDO56/PyMacroRecord)<br>
+3. ⭐ Starred [iib0011/omni-tools](https://github.com/iib0011/omni-tools)<br>
+4. ⭐ Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
+5. ⭐ Starred [twostraws/SwiftAgents](https://github.com/twostraws/SwiftAgents)<br>
+6. ⭐ Starred [twostraws/Swift-Concurrency-Agent-Skill](https://github.com/twostraws/Swift-Concurrency-Agent-Skill)<br>
+7. ⭐ Starred [twostraws/Swift-Testing-Agent-Skill](https://github.com/twostraws/Swift-Testing-Agent-Skill)<br>
+8. ⭐ Starred [twostraws/SwiftData-Agent-Skill](https://github.com/twostraws/SwiftData-Agent-Skill)<br>
+9. ⭐ Starred [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)<br>
+10. ⭐ Starred [YuriCernov/swiftui-app-template](https://github.com/YuriCernov/swiftui-app-template)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 20th, 2026, 12:37:29 PM
+Last Updated: Saturday, March 21st, 2026, 1:12:18 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
