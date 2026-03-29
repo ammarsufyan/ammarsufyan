@@ -17,6 +17,8 @@
   <summary>📚 Frameworks</summary>
   <br>
 
+  [![SwiftUI](https://img.shields.io/badge/SwiftUI-F54A2A?logo=swift&logoColor=white)](#)
+  [![UIKit](https://img.shields.io/badge/UIKit-F54A2A?logo=swift&logoColor=white)](#)
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
 </details>
 
