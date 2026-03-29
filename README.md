@@ -63,21 +63,6 @@
   </a>
 
 ## ⚙️ GitHub Statistics
-<details>
-  <summary>🎛️ GitHub Profile Stats</summary>
-  <br>
-    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsufyan&layout=compact&theme=radical)
-  
-  ![ammarsufyan GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarsufyan&show_icons=true&theme=radical)
-</details>
-
-<details>
-  <summary>🏆 GitHub Trophy</summary>
-  <br>
-  
-  <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=ammarsufyan&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
-</details>  
 
 <details>
   <summary>🚀 GitHub Recent Activity</summary>
