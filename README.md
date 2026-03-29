@@ -11,8 +11,6 @@
   
   [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 </details>
 
 <details open>
@@ -20,7 +18,6 @@
   <br>
 
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
-  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 </details>
 
 <details open>
