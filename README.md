@@ -65,19 +65,19 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)<br>
-2. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
-3. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-4. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
-5. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-6. ⬆️ Pushed undefined commit(s) to [ammarsufyan/IndonesiaGuideAgent](https://github.com/ammarsufyan/IndonesiaGuideAgent)<br>
-7. ⭐ Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)<br>
-8. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
-9. ⬆️ Pushed undefined commit(s) to [ammarsufyan/IndonesiaGuideAgent](https://github.com/ammarsufyan/IndonesiaGuideAgent)<br>
+1. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+2. ⬆️ Pushed undefined commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
+3. ⬆️ Pushed undefined commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
+4. ⬆️ Pushed undefined commit(s) to [ammarsufyan/Copra-YOLOv8-GUI](https://github.com/ammarsufyan/Copra-YOLOv8-GUI)<br>
+5. ⭐ Starred [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector)<br>
+6. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
+7. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+8. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
+9. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
 10. ⬆️ Pushed undefined commit(s) to [ammarsufyan/IndonesiaGuideAgent](https://github.com/ammarsufyan/IndonesiaGuideAgent)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 6th, 2026, 12:50:46 PM
+Last Updated: Tuesday, April 7th, 2026, 1:27:23 AM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
