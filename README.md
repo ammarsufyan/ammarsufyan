@@ -64,14 +64,14 @@
   <summary>GitHub Stats</summary>
   <br>
 
-  <img src="./profile/stats.svg" alt="Ammar's GitHub Stats" />
+  <img src="./profile/stats.svg?v=2" alt="Ammar's GitHub Stats" />
 </details>
 
 <details open>
   <summary>WakaTime Stats</summary>
   <br>
 
-  <img src="./profile/wakatime.svg" alt="Ammar's WakaTime Stats" />
+  <img src="./profile/wakatime.svg?v=2" alt="Ammar's WakaTime Stats" />
 </details>
 
 <details>
