@@ -6,15 +6,34 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-stats-cards:
-    name: Update stats cards
+  update-recent-activity:
+    name: Update recent activity
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Add activity to readme
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+  update-stats-cards:
+    name: Update stats cards
+    runs-on: ubuntu-latest
+    needs: update-recent-activity
+
+    permissions:
+      contents: write
+
+    steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -46,17 +65,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "⚡ Update README stats cards" || exit 0
+          git pull --rebase origin main
           git push
-
-  update-recent-activity:
-    name: Update recent activity
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Add activity to readme
-        uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
