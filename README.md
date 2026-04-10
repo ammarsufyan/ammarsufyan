@@ -65,7 +65,6 @@
   <br>
 
   <img src="./profile/stats.svg" alt="Ammar's GitHub Stats" />
-  <img src="./profile/top-langs.svg" alt="Ammar's Top Languages" />
 </details>
 
 <details open>
