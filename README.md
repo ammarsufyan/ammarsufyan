@@ -74,7 +74,7 @@
   <img src="./profile/wakatime.svg?v=2" alt="Ammar's WakaTime Stats" />
 </details>
 
-<details>
+<details open>
   <summary>Recent Activity</summary>
   <br>
   
