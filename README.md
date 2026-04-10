@@ -58,10 +58,25 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 
-## ⚙️ GitHub Statistics
+## 📊 Statistics
+
+<details open>
+  <summary>GitHub Stats</summary>
+  <br>
+
+  <img src="./profile/stats.svg" alt="Ammar's GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Ammar's Top Languages" />
+</details>
+
+<details open>
+  <summary>WakaTime Stats</summary>
+  <br>
+
+  <img src="./profile/wakatime.svg" alt="Ammar's WakaTime Stats" />
+</details>
 
 <details>
-  <summary>🚀 GitHub Recent Activity</summary>
+  <summary>Recent Activity</summary>
   <br>
   
   <!--RECENT_ACTIVITY:start-->
