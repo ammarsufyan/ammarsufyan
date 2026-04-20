@@ -79,7 +79,7 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
+1. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
 2. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
 3. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
 4. ⭐ Starred [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit)<br>
@@ -92,6 +92,6 @@
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 19th, 2026, 5:32:40 PM
+Last Updated: Monday, April 20th, 2026, 5:54:04 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
