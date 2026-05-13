@@ -79,19 +79,14 @@
   <br>
   
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+1. ⬆️ Pushed undefined commit(s) to [ammarsufyan/LeetCode](https://github.com/ammarsufyan/LeetCode)<br>
 2. ⬆️ Pushed undefined commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-3. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
-4. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
-5. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-6. ⭐ Starred [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit)<br>
-7. ⭐ Starred [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire)<br>
-8. ⭐ Starred [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher)<br>
-9. ⭐ Starred [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)<br>
-10. ⭐ Starred [supabase/agent-skills](https://github.com/supabase/agent-skills)<br>
+3. ⬆️ Pushed undefined commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
+4. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
+5. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
   <!--RECENT_ACTIVITY:end-->
   
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 12th, 2026, 6:53:39 PM
+Last Updated: Wednesday, May 13th, 2026, 6:54:08 PM
   <!--RECENT_ACTIVITY:last_update_end-->
 </details>
