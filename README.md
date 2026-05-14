@@ -1,6 +1,6 @@
-# Hi there, My name is [Ammar Sufyan](https://ammarsufyan.github.io) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
+# Hi there, My name is [Ammar Sufyan](https://ammarsufyan.com/) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">
 
-- 🎓 Bachelor of Computer Science (Informatics) at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
+- 🎓 Bachelor of Computer Science, Informatics at [UIN Syarif Hidayatullah Jakarta](https://www.uinjkt.ac.id/), Indonesia. 
 - 💻 Apple Developer Academy Alumni at [Apple Developer Academy Binus Tangerang](https://developeracademy.apps.binus.ac.id/), Indonesia.
 
 ## 📝 Skills
@@ -36,10 +36,12 @@
   
   [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
   [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
-  [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
+  [![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)](#)
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
   [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
   [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
+  [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](#)
+  [![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)](#)
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 </details>
 
@@ -53,9 +55,15 @@
   [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 </details>
 
-## 🧷 Connect with Me
+## 🌐 Find Me
   <a href="https://www.linkedin.com/in/ammarsufyan/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/ammarsufyan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://www.instagram.com/ammarsfyn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
 ## 📊 Statistics
