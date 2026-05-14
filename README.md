@@ -56,15 +56,9 @@
 </details>
 
 ## 🌐 Find Me
-  <a href="https://www.linkedin.com/in/ammarsufyan/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/ammarsufyan/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://www.instagram.com/ammarsfyn">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ammarsufyan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ammarsufyan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ammarsfyn)
 
 ## 📊 Statistics
 
