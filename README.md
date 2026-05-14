@@ -73,20 +73,3 @@
 
   <img src="./profile/wakatime.svg?v=2" alt="Ammar's WakaTime Stats" />
 </details>
-
-<details open>
-  <summary>Recent Activity</summary>
-  <br>
-  
-  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ammarsufyan/LeetCode](https://github.com/ammarsufyan/LeetCode)<br>
-2. ⬆️ Pushed undefined commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-3. ⬆️ Pushed undefined commit(s) to [ammarsufyan/ammarsufyan](https://github.com/ammarsufyan/ammarsufyan)<br>
-4. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
-5. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
-  <!--RECENT_ACTIVITY:end-->
-  
-  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 13th, 2026, 6:54:08 PM
-  <!--RECENT_ACTIVITY:last_update_end-->
-</details>
