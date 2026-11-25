@@ -1,4 +1,4 @@
-# Hi there, I'm [Ammar Sufyan](https://ammarsufyan.com/) 👋
+# Hi there, I'm <a href="https://ammarsufyan.com/" target="_blank" rel="noopener noreferrer">Ammar Sufyan</a> 👋
 
 Software Engineer | iOS, Web, AI/ML
 
@@ -14,13 +14,22 @@ Software Engineer | iOS, Web, AI/ML
 
 ## Find Me
 
-[![Website](https://img.shields.io/badge/ammarsufyan.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ammarsufyan.com/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/ammarsufyan/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ammarsufyan/)
+<p>
+  <a href="https://ammarsufyan.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ammarsufyan.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/ammarsufyan/" target="_blank" rel="noopener noreferrer"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/ammarsufyan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://ammarsufyan.itch.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
+</p>
 
 ## Statistics
 
 <p>
-  <img src="./profile/stats.svg" alt="Ammar's GitHub Stats" height="185" />
-  <img src="./profile/wakatime.svg" alt="Ammar's WakaTime Stats" height="185" />
+  <img src="./profile/stats.svg" alt="Ammar's GitHub Stats" width="49%" valign="top" />
+  <img src="./profile/wakatime.svg" alt="Ammar's WakaTime Stats" width="49%" valign="top" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+  <img alt="GitHub contribution snake" src="./profile/snake.svg" />
+</picture>
